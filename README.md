@@ -1,2 +1,2 @@
 # hacker-rank
-# just my version of solutin .
+# just my version of solution .
